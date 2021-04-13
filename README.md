@@ -36,7 +36,7 @@ In case the unit chosen was time (in hours or minutes), pixel data may be record
 
 ![Record Frame](https://github.com/cgodevs/habit-tracker/blob/master/img/screenshots/record_frame.PNG)
 
-All found user's graphs are displayed in menu and may be accessed by clicking
+All user's found graphs are displayed in menu and may be accessed by clicking
 
 ![Features](https://github.com/cgodevs/habit-tracker/blob/master/img/screenshots/features.png)
 
@@ -63,8 +63,8 @@ May include more features next. May include bugs I'm not aware of.
 
 This is my first project as a beginner. So this far I have not been able to formally test it.
 
-## *Acknowledgement*
+## *Acknowledgements*
 
-Thanks a lot to [Angela Yu's Udemy Course](https://www.udemy.com/course/100-days-of-code/) for introducing this very nice API and motivating me to start walking my own steps in python (@angelayu)
+Thanks a lot to [Angela Yu's Udemy Course](https://www.udemy.com/course/100-days-of-code/) for introducing this very nice API and motivating me to start walking my own steps in python (@angelabauer)
 
-Thanks to Al Sweigart for introducing the shelve module in his course [Automate the Boring Stuff with Python](https://www.udemy.com/course/automate/) (@alsweigart), and others
+Thanks to Al Sweigart for introducing the shelve module in his course [Automate the Boring Stuff with Python](https://www.udemy.com/course/automate/) (@alsweigart) and much more
