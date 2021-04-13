@@ -6,7 +6,7 @@ A GUI made with tkinter and pixe.la's API to keep track of one's habits
 
 To keep track of any habit's progress of one's choice, [pixe.la](pixe.la) API can collect user's input data and build them a pixel graph similar to Github's.
 
-![](C:\Users\cgodevs\PycharmProjects\Habit Tracker\img\screenshots\tempsnip.png)
+![Login Screen](https://github.com/cgodevs/habit-tracker/blob/master/img/screenshots/login_screen.PNG)
 
 One pixel in the graph is data input via this app. The amount is always a float, so user can input values in decimals.
 
