@@ -32,7 +32,7 @@ It will recognize the user's graph unit and display a different frame based on i
 
 In case the unit chosen was time (in hours or minutes), pixel data may be recorded in real time (option: "Record"), or directly input (option: "Input Time")
 
-![Logged Screen non-time unit](https://github.com/cgodevs/habit-tracker/blob/master/img/screenshots/time_unit_frames.PNG)
+![Logged Screen non-time unit](https://github.com/cgodevs/habit-tracker/blob/master/img/screenshots/time_unit_frames.png)
 
 All user's found graphs are displayed in menu and may be accessed by clicking
 
