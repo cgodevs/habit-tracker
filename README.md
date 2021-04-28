@@ -30,11 +30,9 @@ User may create a new user or login for the first time at start.
 
 It will recognize the user's graph unit and display a different frame based on it.
 
-![Logged Screen non-time unit](https://github.com/cgodevs/habit-tracker/blob/master/img/screenshots/user_logged_any_unit.PNG)
-
 In case the unit chosen was time (in hours or minutes), pixel data may be recorded in real time (option: "Record"), or directly input (option: "Input Time")
 
-![Record Frame](https://github.com/cgodevs/habit-tracker/blob/master/img/screenshots/record_frame.PNG)
+![Logged Screen non-time unit](https://github.com/cgodevs/habit-tracker/blob/master/img/screenshots/time_unit_frames.PNG)
 
 All user's found graphs are displayed in menu and may be accessed by clicking
 
